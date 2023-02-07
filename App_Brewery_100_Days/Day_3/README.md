@@ -1,6 +1,4 @@
-# odd or even
-
-ask a number, return "This is an even number", or "This is an odd number"
+## Day 3 of #100DaysOfPython
 
 Notion learned and applied
 
