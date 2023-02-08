@@ -4,13 +4,15 @@
 
 some of the exercices can be executed on [my Replit](https://replit.com/@Tegristh)
 
+(*) are the main project of the day, the other project are just learning support.
+
 ### Day 1
 
-- band_name_generator
+- band_name_generator (*)
 
 ### Day 2
 
-- Tip_calculator
+- Tip_calculator (*)
 - BMI_Calculator
 
 ### Day 3
@@ -20,12 +22,21 @@ some of the exercices can be executed on [my Replit](https://replit.com/@Tegrist
 - Leap_Year
 - Pizza_Order
 - Love_Calculator
-- Treasure_island
+- Treasure_island (*)
 
 ### Day 4
 
 - Head_or_Tail
 - Banker_Roulette
 - Treasure_map
-- Rock_Paper_Scissors
+- Rock_Paper_Scissors (*)
+
+### Day 5
+
+- Adding_Even_Numbers
+- Average_Height
+- Fizzbuzz
+- High_Score
+- Password_Generator (*)
+
 
