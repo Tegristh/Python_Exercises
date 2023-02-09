@@ -39,4 +39,8 @@ some of the exercices can be executed on [my Replit](https://replit.com/@Tegrist
 - High_Score
 - Password_Generator (*)
 
+### Day 6
+
+- Escape_the_Maze (*)
+
 
