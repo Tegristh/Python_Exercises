@@ -43,4 +43,6 @@ some of the exercices can be executed on [my Replit](https://replit.com/@Tegrist
 
 - Escape_the_Maze (*)
 
+### Day 7
 
+- Hangman (*)
