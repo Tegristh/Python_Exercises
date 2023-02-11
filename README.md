@@ -46,3 +46,9 @@ some of the exercices can be executed on [my Replit](https://replit.com/@Tegrist
 ### Day 7
 
 - Hangman (*)
+
+### Day 8
+
+- Paint Area Calculator
+- Prime number Checker
+- Caesar Cipher (*)
