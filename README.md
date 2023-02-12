@@ -52,3 +52,7 @@ some of the exercices can be executed on [my Replit](https://replit.com/@Tegrist
 - Paint Area Calculator
 - Prime number Checker
 - Caesar Cipher (*)
+
+### Day 9
+
+- Secret Auction (*)
