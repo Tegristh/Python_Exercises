@@ -56,3 +56,8 @@ some of the exercices can be executed on [my Replit](https://replit.com/@Tegrist
 ### Day 9
 
 - Secret Auction (*)
+
+### Day 10
+
+- Days_in_month
+- Calculator (*)
