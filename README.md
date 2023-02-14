@@ -61,3 +61,7 @@ some of the exercices can be executed on [my Replit](https://replit.com/@Tegrist
 
 - Days_in_month
 - Calculator (*)
+
+### Day 11
+
+- Blackjack (*)
