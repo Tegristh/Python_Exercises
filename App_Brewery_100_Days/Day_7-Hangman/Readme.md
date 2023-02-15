@@ -7,3 +7,5 @@ Notion learned and applied
 # Hangman
 
 Hangman game in console with ascii art and a personnalisable list of words
+
+[test it](https://replit.com/@Tegristh/Password-generator?v=1)

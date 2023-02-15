@@ -65,3 +65,7 @@ some of the exercices can be executed on [my Replit](https://replit.com/@Tegrist
 ### Day 11
 
 - Blackjack (*)
+
+### Day 12
+
+- Number Guessing Game

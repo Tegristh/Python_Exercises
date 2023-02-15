@@ -5,3 +5,5 @@ Notions learned and applied:
 - Print()
 - Input()
 - Variables
+
+[test it](https://replit.com/@Tegristh/Band-name-generator?v=1)
