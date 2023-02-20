@@ -68,4 +68,12 @@ some of the exercices can be executed on [my Replit](https://replit.com/@Tegrist
 
 ### Day 12
 
-- Number Guessing Game
+- Number Guessing Game (*)
+
+### Day 13
+
+- debugging exercises (not on github)
+
+### Day 14
+
+- Higher Lower Game
