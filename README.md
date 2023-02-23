@@ -77,3 +77,7 @@ some of the exercices can be executed on [my Replit](https://replit.com/@Tegrist
 ### Day 14
 
 - Higher Lower Game
+
+### Day 15
+
+- Coffee Machine
