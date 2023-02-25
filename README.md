@@ -4,7 +4,8 @@
 
 some of the exercices can be executed on [my Replit](https://replit.com/@Tegristh)
 
-(*) are the main project of the day, the other project are just learning support.
+If multiple project a day, (*) are the main project of the day, the other project are just learning support.
+
 
 ### Day 1
 
@@ -85,3 +86,7 @@ some of the exercices can be executed on [my Replit](https://replit.com/@Tegrist
 ### Day 16
 
 - OOP_Coffee Machine
+
+### Day 17
+
+- Quiz 
