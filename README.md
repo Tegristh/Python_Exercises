@@ -90,3 +90,7 @@ If multiple project a day, (*) are the main project of the day, the other projec
 ### Day 17
 
 - Quiz 
+
+### Day 18
+
+- Hirst painting
