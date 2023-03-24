@@ -94,3 +94,7 @@ If multiple project a day, (*) are the main project of the day, the other projec
 ### Day 18
 
 - Hirst painting
+
+### Day 19
+
+- Turtle Race
