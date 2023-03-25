@@ -98,3 +98,11 @@ If multiple project a day, (*) are the main project of the day, the other projec
 ### Day 19
 
 - Turtle Race
+
+### Day 20
+
+- Snake game part 1
+
+### Day 21
+
+- Snake game part 2

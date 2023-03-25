@@ -8,8 +8,6 @@ Notions:
     - Multiple Instances
 
 
-# Hirst Painting project:
+# Turtle Race:
 
-Given an image file of a real life Hirst painting, our project will extract the principal color values and draw a set of 10 painting inspired by Hirst painting style.
-
-see the "result.png" image in the folder.
+"red", "orange", "yellow", "green", "blue", "purple" Turtle are going for a race, can you bet on the winner?
