@@ -110,3 +110,7 @@ If multiple project a day, (*) are the main project of the day, the other projec
 ### Day 23
 
 - Turtle crossing game
+
+### Day 24
+
+- Mail Merger
