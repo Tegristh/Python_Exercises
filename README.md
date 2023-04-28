@@ -118,3 +118,7 @@ If multiple project a day, (*) are the main project of the day, the other projec
 ### Day 25
 
 - US States Game
+
+### Day 26
+
+- NATO Alphabet
