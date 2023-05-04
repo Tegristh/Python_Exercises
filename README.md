@@ -130,3 +130,7 @@ If multiple project a day, (*) are the main project of the day, the other projec
 ### Day 28
 
 - Pomodoro App
+
+### Day 29 - 30
+
+- GUI password manager
