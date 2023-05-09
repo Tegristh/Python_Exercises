@@ -138,3 +138,8 @@ If multiple project a day, (*) are the main project of the day, the other projec
 ### Day 31
 
 - Flash Card App
+
+## Day 32
+
+- Motivational monday quote by mail
+- Automated birthday wisher (*)
