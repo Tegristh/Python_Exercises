@@ -143,3 +143,8 @@ If multiple project a day, (*) are the main project of the day, the other projec
 
 - Motivational monday quote by mail
 - Automated birthday wisher (*)
+
+## Day 33
+
+- Kanye Quotes app
+- ISS Overhead Notifier (*)
