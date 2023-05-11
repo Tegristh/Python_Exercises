@@ -148,3 +148,7 @@ If multiple project a day, (*) are the main project of the day, the other projec
 
 - Kanye Quotes app
 - ISS Overhead Notifier (*)
+
+## Day 34
+
+- GUI Quiz
